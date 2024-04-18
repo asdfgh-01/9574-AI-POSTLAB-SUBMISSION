@@ -1,0 +1,15 @@
+9574 Amanda Saldanha
+
+1. Methods to solve the Tower of Hanoi problem include:
+   - Recursive algorithm
+   - Iterative algorithm
+   - Dynamic programming
+   - Mathematical formulae
+   
+2. The best approach depends on factors such as the size of the problem, available resources, and specific requirements. However, the recursive algorithm is often preferred due to its simplicity and elegance. It closely mimics the problem's natural recursive structure and requires minimal code to implement. For smaller problem sizes, recursive algorithms are efficient and easy to understand. However, for larger problem sizes, iterative algorithms or dynamic programming approaches might be more efficient in terms of memory and time complexity.
+
+3. Applications of the Tower of Hanoi include:
+   - Teaching recursion: The Tower of Hanoi is commonly used as an introductory example to teach recursion in computer science courses.
+   - Puzzle solving: The Tower of Hanoi is a classic puzzle game that provides entertainment and challenges problem-solving skills.
+   - Disk scheduling algorithms: The Tower of Hanoi problem has applications in disk scheduling algorithms, where it represents the movement of data blocks between disk storage locations.
+   - Mathematical studies: The Tower of Hanoi problem has connections to various mathematical concepts, including combinatorics, graph theory, and number theory, making it a subject of mathematical research and exploration.

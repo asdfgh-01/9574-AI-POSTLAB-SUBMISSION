@@ -1,0 +1,14 @@
+9574 Amanda Saldanha
+
+
+Expert systems have various applications across different domains due to their ability to mimic human expertise and reasoning. Some common applications of expert systems include:
+
+1. Medical Diagnosis: Expert systems assist healthcare professionals in diagnosing diseases, interpreting medical images, and recommending treatment plans based on patient symptoms and medical data.
+
+2. Financial Services: Expert systems are used in banking, insurance, and investment sectors for risk assessment, fraud detection, credit scoring, and financial planning, providing personalized recommendations and optimizing financial strategies.
+
+3. Manufacturing and Engineering: Expert systems aid in product design, process optimization, quality control, fault diagnosis, and maintenance scheduling in manufacturing and engineering industries, improving efficiency and enhancing product quality.
+
+4. Customer Support and Service: Expert systems power chatbots and virtual assistants in customer service applications, answering queries, troubleshooting issues, and providing product recommendations based on customer preferences and interactions.
+
+5. Education and Training: Expert systems are utilized in e-learning platforms and educational software to deliver personalized learning experiences, assess student performance, recommend learning resources, and provide feedback to learners based on their knowledge gaps and learning styles.

@@ -1,0 +1,32 @@
+9574 Amanda Saldanha
+
+1. The time complexity of the A algorithm depends on several factors, including the heuristic function used, the branching factor of the search space, and the size of the search space. In general, A combines elements of both uniform-cost search (similar to Dijkstra's algorithm) and greedy best-first search, using a heuristic to guide the search towards the goal efficiently. If the heuristic is admissible (i.e., never overestimates the true cost to reach the goal) and consistent (i.e., satisfies the triangle inequality), A is guaranteed to find the shortest path to the goal. The time complexity of A is typically exponential in the worst case but can be significantly reduced with effective heuristics and pruning strategies.
+
+2. The limitations of the A algorithm include:
+   - A relies heavily on the quality of the heuristic function. If the heuristic is not well-designed or does not accurately estimate the cost to reach the goal, A may not find the optimal solution.
+   - A can be memory-intensive, especially when dealing with large search spaces or when storing information for many nodes in the open list.
+   - A may not be efficient in scenarios where the search space is highly irregular or contains many obstacles, as it may waste time exploring unpromising paths.
+
+3. Breadth-First Search (BFS):
+   - BFS explores all nodes at the current depth level before moving to the next level.
+   - It guarantees finding the shortest path to the goal in unweighted graphs.
+   - BFS uses a queue data structure for node expansion.
+   - Example: Finding the shortest path in a maze with equal edge weights.
+
+   Depth-First Search (DFS):
+   - DFS explores as far as possible along each branch before backtracking.
+   - It may not find the shortest path to the goal.
+   - DFS uses a stack data structure for node expansion.
+   - Example: Searching for a solution in a game tree, like chess.
+
+   Dijkstra’s Algorithm:
+   - Dijkstra’s algorithm finds the shortest path from a source node to all other nodes in a weighted graph.
+   - It uses a priority queue to select the node with the smallest tentative distance.
+   - Dijkstra's algorithm is guaranteed to find the shortest paths if all edge weights are non-negative.
+   - Example: Finding the shortest route in a road network with varying travel times.
+
+   A Algorithm:
+   - A is an informed search algorithm that combines elements of uniform-cost search and greedy best-first search.
+   - It uses a heuristic function to guide the search towards the goal efficiently.
+   - A is guaranteed to find the shortest path if the heuristic is admissible and consistent.
+   - Example: Finding the shortest path in a grid-based game with varying movement costs, like navigating a robot through obstacles.

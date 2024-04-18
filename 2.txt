@@ -1,0 +1,5 @@
+9574 Amanda Saldanha
+
+1. Tic-tac-toe and magic squares both involve arranging symbols (numbers in the case of magic squares, and Xs and Os in the case of tic-tac-toe) in a grid pattern. However, they differ in their objectives and rules. Tic-tac-toe aims for players to create winning lines, while magic squares aim for the sums of numbers in each row, column, and diagonal to be equal.
+
+2. A magic square of order n is a square grid containing numbers from 1 to n^2, arranged in such a way that the sum of numbers in each row, each column, and both main diagonals is the same. Each number from 1 to n^2 appears exactly once in the square.

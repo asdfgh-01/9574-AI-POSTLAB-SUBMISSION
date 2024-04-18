@@ -1,0 +1,9 @@
+9574 Amanda Saldanha
+
+1. The easiest way to win Tic Tac Toe is to prioritize creating winning lines while blocking your opponent's. Aim for corners and the center square, and use the "fork" strategy to create multiple winning opportunities.
+
+2. In a 5x5 Tic Tac Toe, focus on controlling the center and corners, and aim to create and maintain multiple potential winning lines.
+
+3. Achieving a perfect record in Tic-Tac-Toe against skilled opponents is challenging but theoretically possible with perfect play.
+
+4. Tic-Tac-Toe improves cognitive skills like pattern recognition, strategic thinking, and understanding basic game theory concepts. It's also a fun way to engage in friendly competition.
